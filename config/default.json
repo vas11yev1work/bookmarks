@@ -1,0 +1,4 @@
+{
+    "port": 1337,
+    "mongoUri": "mongodb+srv://developer:developerpassword@cluster0-fnetk.mongodb.net/test?retryWrites=true&w=majority"
+}
